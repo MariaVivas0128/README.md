@@ -1,1 +1,12 @@
-# README.md
+# MARÍA PAULA PARRA VIVAS  
+
+### DESCRIPCIÓN: APRENDIZ SENA - ANÁLISIS Y DESARROLLO DE SOFTWARE - COMPETENCIAS REFERENTES: 
+
+1. Java
+2. SQL
+3. Angular
+
+### INFORMACIÓN GENERAL:
+
+- Lugar de residencia: Barranquilla 
+- Celular: ..........
